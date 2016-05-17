@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2016/04/30 22:47:55.640.pas,C:\Users\CláudiaNeli\Documents\RAD Studio\Projects\Unit2.pas=C:\Users\CláudiaNeli\Desktop\Clovis\uPrincipal.pas</Transaction>
+    <Transaction>2016/04/30 22:47:55.640.dfm,C:\Users\CláudiaNeli\Documents\RAD Studio\Projects\Unit2.dfm=C:\Users\CláudiaNeli\Desktop\Clovis\uPrincipal.dfm</Transaction>
+    <Transaction>2016/04/30 22:48:14.208.dproj,C:\Users\CláudiaNeli\Documents\RAD Studio\Projects\Project2.dproj=C:\Users\CláudiaNeli\Desktop\Clovis\ProjetoCadastroConsulta.proj.dproj</Transaction>
+    <Transaction>2016/04/30 22:49:25.218.pas,C:\Users\CláudiaNeli\Desktop\Clovis\Unit1.pas=C:\Users\CláudiaNeli\Desktop\Clovis\uConsulta.pas</Transaction>
+    <Transaction>2016/04/30 22:49:25.218.dfm,C:\Users\CláudiaNeli\Desktop\Clovis\Unit1.dfm=C:\Users\CláudiaNeli\Desktop\Clovis\uConsulta.dfm</Transaction>
+    <Transaction>2016/04/30 22:53:49.929.pas,C:\Users\CláudiaNeli\Desktop\Clovis\Unit2.pas=C:\Users\CláudiaNeli\Desktop\Clovis\uCadastro.pas</Transaction>
+    <Transaction>2016/04/30 22:53:49.929.dfm,C:\Users\CláudiaNeli\Desktop\Clovis\Unit2.dfm=C:\Users\CláudiaNeli\Desktop\Clovis\uCadastro.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
